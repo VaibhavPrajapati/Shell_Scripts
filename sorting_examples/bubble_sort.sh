@@ -1,4 +1,4 @@
-arr=(10 23 34 1 32 45)
+arr=(20 23 34 1 32 45)
 length=${#arr[@]} 
 while :
 do
@@ -20,4 +20,3 @@ do
 		exit 0
 	fi
 done
-
